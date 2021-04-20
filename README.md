@@ -1,10 +1,4 @@
-<h1 align="center">
-  <img width="450px" src="./.github/images/logo-moveit-2.0.svg" />
-  <br />
-  <a href="https://www.linkedin.com/in/thalys-melicio/">
-    <img alt="Linkedin" src="https://media-exp1.licdn.com/dms/image/C4D03AQF36ZeFykgaSg/profile-displayphoto-shrink_200_200/0/1611012176210?e=1624492800&v=beta&t=5uL2172tbWWvzLtipXCfmv_Z6jqAVzckSC741F1mgwA">
-  </a>
-</h1>
+
 <p align="center">
   <a href="#page_facing_up-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -13,8 +7,6 @@
   <a href="#man-Autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-Licença">Licença</a>
 </p>
-
-<img src="./.github/images/screens-moveit-2.0.svg" />
 
 ## :page_facing_up: Descrição
 O PomodoroTime é um app que usa a técnica de Pomodoro, esse app faz com que pessoas que passa muito tempo na frente do computador realizar exercícios físicos.
